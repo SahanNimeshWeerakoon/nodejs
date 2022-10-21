@@ -1,0 +1,6 @@
+Node contains functions from 4 libraries
+    1) http
+    2) fs
+    3) crypto
+    4) path
+
